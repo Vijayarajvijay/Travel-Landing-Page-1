@@ -1,0 +1,28 @@
+1.font;
+font-family: Peralta; ------>1 Bon Voyage
+font-size: 40px;
+font-weight: 400;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Poppins; ------>2 Desitnations,Hotels,Flights,Bookings
+font-size: 23px;
+font-weight: 700; -----> login , signup
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+
+Peralta - 400
+Poppins - 700,400,500,600
+Montserrat - 400
+
+
+2. colors;
+background: #4B40C5;
+
+3,8
+
+
+
+

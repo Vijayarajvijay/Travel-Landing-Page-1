@@ -1,0 +1,85 @@
+ *{
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+ body{
+   font-family: 'Poppins', sans-serif;
+ }
+ .main-hero {
+   background: url("./images/task\ bg\ image.png");
+   width: 100%;
+   height: 100vh;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+/* .main-hero::before{
+   content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+  background: rgba(0,0,0,.5);
+} */
+ .main-logo{
+   font-family: Peralta;
+   font-size: 40px;
+   font-weight: 400;
+   line-height: 52px;
+   letter-spacing: 0em;
+   text-align: left;
+   padding: 25px;
+   display: inline-block;
+   width: 20%;
+ }
+.nav-bar{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+ul.nav-items {
+   display: flex;
+   justify-content: space-evenly;
+   width: 70%;
+}
+button.login-btn {
+   background: #EC682C;
+   color: #fff;
+   padding: 10px 30px;
+   outline: none;
+   border: none;
+   font-size: 16px;
+   border-radius: 10px;
+   cursor: pointer;
+}
+button.signup-btn{
+   background: #EC682C;
+   color: #fff;
+   padding: 10px 30px;
+   outline: none;
+   border: none;
+   font-size: 16px;
+   border-radius: 8px;
+   cursor: pointer;
+}
+a{
+   text-decoration: none;
+   color: #000;
+}
+li {
+   list-style-type: none;
+}
+.nav-items li a{
+   color:#000;
+   font-weight:700;
+   font-size: 22px;
+}
+.content-header {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   margin: 52px;
+   /* background-color: #000; */
+   color: #fff;
+   padding: 50px;
+}
