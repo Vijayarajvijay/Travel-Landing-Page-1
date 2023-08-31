@@ -649,8 +649,6 @@ li {
   width: 120%;
 }
 img.img-inner {
-  /* background-image: url(./images/Handpicked\ Hotels\ bg\ image\ \(1\).png); */
-
   background-position: center;
   margin: 0;
   padding: 0px;
@@ -669,33 +667,6 @@ img.img-inner {
   height: 115px;
 }
 
-.yellow1 {
-  background-image: url("./images/World\ Class\ Service\ bg\ image.png");
-  background-repeat: no-repeat;
-  background-position: center;
-
-  padding-top: 25px;
-  height: 126px;
-}
-.orange1 {
-  background-image: url("./images/Best\ Price\ Guarantee\ bg\ image.png");
-  background-repeat: no-repeat;
-  background-position: center;
-
-  padding-top: 25px;
-  height: 126px;
-}
-
-div.orange-rectangel {
-  display: flex;
-  padding-right: 400px;
-  position: absolute;
-  z-index: -1;
-  margin-left: -50px;
-  margin-top: -150px;
-  padding-left: 15px;
-  padding-top: -10px;
-}
 div.blue-border {
   display: flex;
   padding-right: 200px;
@@ -714,4 +685,17 @@ div.blue-border {
 .category-detials img {
   padding-bottom: 10%;
   padding-top: 19%;
+}
+img.bottom-img{
+   border-bottom-left-radius: 15%;
+   border-bottom-right-radius: 15%;
+}
+img.bottom-img2{
+  border-bottom-left-radius: 15%;
+  border-bottom-right-radius: 15%;
+}
+
+img.bottom-img3{
+  border-bottom-left-radius: 15%;
+  border-bottom-right-radius: 15%;
 }
