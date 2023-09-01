@@ -728,7 +728,7 @@ img.bottom-img3{
   border-bottom-right-radius: 15%;
 }
 
-/* @media (max-width: 576px) {
+@media (max-width: 576px) {
   body {
       width: 576px;
   }
@@ -736,7 +736,7 @@ img.bottom-img3{
   .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: contain;
-      height: auto;
+      height: fit-content;
   }
 
 
@@ -751,7 +751,8 @@ img.bottom-img3{
  .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: fit-content;
+      
   }
 }
 
@@ -763,7 +764,7 @@ img.bottom-img3{
   .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: fit-content;
   }
 }
 
@@ -775,7 +776,7 @@ img.bottom-img3{
   .main-hero{
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: fit-content;
   }
 }
 
@@ -787,6 +788,6 @@ img.bottom-img3{
   .main-hero{
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: fit-content;
   }
-} */
+} 
