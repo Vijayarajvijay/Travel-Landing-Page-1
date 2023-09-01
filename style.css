@@ -662,15 +662,44 @@ img.img-inner {
 
   background-repeat: no-repeat;
   background-position: center;
+  
 
   padding-top: 25px;
   height: 115px;
 }
 
+.yellow1 {
+  background-image: url("./images/World\ Class\ Service\ bg\ image.png");
+  
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+  padding-top: 25px;
+  height: 130px;
+}
+.orange1 {
+  background-image: url("./images/Best\ Price\ Guarantee\ bg\ image.png");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  
+
+  padding-top: 25px;
+  height: 115px;
+}
+.orange-rectangel img {
+  display: flex;
+  position: relative;
+  z-index: -1;
+  margin-top: -57px;
+  margin-left: -25px;
+}
+
 div.blue-border {
   display: flex;
   padding-right: 200px;
-  margin-left: -190px;
+  margin-left: -200px;
   margin-top: -60px;
   z-index: -1;
   position: absolute;
@@ -691,11 +720,6 @@ img.bottom-img{
    border-bottom-right-radius: 15%;
 }
 img.bottom-img2{
-  border-bottom-left-radius: 15%;
-  border-bottom-right-radius: 15%;
-}
-
-img.bottom-img3{
   border-bottom-left-radius: 15%;
   border-bottom-right-radius: 15%;
 }
