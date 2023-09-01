@@ -728,3 +728,65 @@ img.bottom-img3{
   border-bottom-right-radius: 15%;
 }
 
+@media (max-width: 576px) {
+  body {
+      width: 576px;
+  }
+
+  .main-hero {
+      background: url("./images/task\ bg\ image.png");
+      background-size: contain;
+      height: auto;
+  }
+
+
+
+}
+
+@media (max-width: 768px) {
+  body {
+      width: 768px;
+  }
+
+ .main-hero {
+      background: url("./images/task\ bg\ image.png");
+      background-size: cover;
+      height: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  body {
+      width: 992px;
+  }
+
+  .main-hero {
+      background: url("./images/task\ bg\ image.png");
+      background-size: cover;
+      height: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  body {
+      width: 1200px;
+  }
+
+  .main-hero{
+      background: url("./images/task\ bg\ image.png");
+      background-size: cover;
+      height: auto;
+  }
+}
+
+@media (max-width: 1400px) {
+  body {
+      width: 1400px;
+  }
+
+  .main-hero{
+      background: url("./images/task\ bg\ image.png");
+      background-size: cover;
+      height: auto;
+  }
+}
