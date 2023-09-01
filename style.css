@@ -736,7 +736,7 @@ img.bottom-img3{
   .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: contain;
-      height: fit-content;
+      height: 100hv;
   }
 
 
@@ -751,8 +751,7 @@ img.bottom-img3{
  .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: fit-content;
-      
+      height:100vh
   }
 }
 
@@ -764,7 +763,7 @@ img.bottom-img3{
   .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: fit-content;
+      height: auto;
   }
 }
 
@@ -776,7 +775,7 @@ img.bottom-img3{
   .main-hero{
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: fit-content;
+      height: auto;
   }
 }
 
@@ -788,6 +787,6 @@ img.bottom-img3{
   .main-hero{
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: fit-content;
+      height: auto;
   }
 } 
