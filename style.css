@@ -763,7 +763,7 @@ img.bottom-img3{
   .main-hero {
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: 100vh;
   }
 }
 
@@ -775,7 +775,7 @@ img.bottom-img3{
   .main-hero{
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: 100hv;
   }
 }
 
@@ -787,6 +787,6 @@ img.bottom-img3{
   .main-hero{
       background: url("./images/task\ bg\ image.png");
       background-size: cover;
-      height: auto;
+      height: 100hv;
   }
 } 
