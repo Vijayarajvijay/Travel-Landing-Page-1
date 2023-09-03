@@ -744,8 +744,8 @@ img.bottom-img3 {
 
 
  }
- /*
- @media (max-width: 768px) { 
+ 
+ /* @media (max-width: 768px) { 
   body {
       width: 768px;
   }
@@ -767,7 +767,7 @@ img.bottom-img3 {
       background-size: cover;
       height: auto;
   }
-}
+} */
 
 @media (max-width: 1200px) {
   body {
@@ -781,6 +781,7 @@ img.bottom-img3 {
   }
 } 
 
+
 @media (max-width: 1440px) {
   body {
       width: 1440px;
@@ -792,4 +793,3 @@ img.bottom-img3 {
       height: auto;
   }
 }  
-/*
