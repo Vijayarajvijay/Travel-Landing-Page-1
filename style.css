@@ -694,14 +694,14 @@ img.img-inner {
   display: flex;
   position: relative;
   z-index: -1;
-  margin-top: -57px;
-  margin-left: -25px;
+  margin-top: -49px;
+  margin-left: -33px;
 }
 
 div.blue-border {
   display: flex;
   padding-right: 200px;
-  margin-left: -117px;
+  margin-left: -181px;
   margin-top: -60px;
   z-index: -1;
   position: absolute;
