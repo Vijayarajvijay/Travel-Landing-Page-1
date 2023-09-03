@@ -730,7 +730,7 @@ img.bottom-img3 {
   border-bottom-right-radius: 15%;
 }
 
-@media (max-width: 576px) { 
+/*@media (max-width: 576px) { 
   body {
       width: 576px;
   }
@@ -745,7 +745,7 @@ img.bottom-img3 {
 
 }
 
-/* @media (max-width: 768px) { 
+ @media (max-width: 768px) { 
   body {
       width: 768px;
   }
