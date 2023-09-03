@@ -221,6 +221,7 @@ a.btn-findoutmore {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  gap:100px;
 }
 .category-detials {
   width: 313px;
