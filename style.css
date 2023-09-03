@@ -418,24 +418,15 @@ p.main-topick {
   letter-spacing: -0.005em;
   text-align: left;
 }
-.rigt-part {
-  margin-right: 100%;
+.bookig-section {
+  /* padding: 50px 20px; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 img.greece-new-img {
   display: inline-block;
-  margin-left: 59%;
-  margin-top: -40%;
-  padding-bottom: 100%;
-  width: 581px;
-}
-.booking-section .rigt-part {
-  align-content: center;
-}
-
-img.greece-new-img {
-  display: inline-block;
-  margin-left: 50%;
-  margin-top: -51%;
+  width: 700px;
 }
 .bookig-section {
   margin-bottom: 150px;
@@ -443,12 +434,15 @@ img.greece-new-img {
 .step p {
   color: #5e6282;
 }
+.section{
+  padding:50px 20px;
+}
 .bookig-section {
-  margin-top: 5%;
+  padding: 50px 20px;
 }
-.Why-Choose-Us {
+/* .Why-Choose-Us {
   margin-top: -110%;
-}
+} */
 .Why-Choose-Us .choose-us-tittle {
   font-family: Poppins;
   display: flex;
@@ -587,20 +581,9 @@ button.subscribe-btn {
 }
 
 .footer {
-  /* display: flex;
-  margin-top: 15%; */
-
-  display: flex;
   padding: 30px 20px;
 }
 .footer-data {
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 50px;
-  padding-left: 15%;
-  justify-content: space-evenly;
-  margin-right: 10%; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -613,7 +596,6 @@ button.subscribe-btn {
   line-height: 40px;
   letter-spacing: 0em;
   text-align: left;
-  margin-left: 10%;
   width: 146px;
   height: 200px;
 }
@@ -627,13 +609,10 @@ button.subscribe-btn {
   color: #5e6282;
 }
 
-  
-
 .footer-right {
   margin-left: 10%;
   width: 284px;
   height: 192px;
-  radius: 23px;
 }
 
 .footer.p-content {
@@ -668,17 +647,13 @@ p.all-rights {
   line-height: 23px;
   letter-spacing: 0em;
   text-align: center;
-  margin-top: 10%;
-  margin-bottom: 50%;
+  padding: 20px;
 }
 
 li.list {
   margin-top: 34px;
   display: flex;
   column-gap: 10px;
-}
-li {
-  width: 120%;
 }
 img.img-inner {
   background-position: center;
