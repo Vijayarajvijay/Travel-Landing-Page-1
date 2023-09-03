@@ -782,9 +782,9 @@ img.bottom-img3 {
 } 
 
 
-@media (max-width: 1440px) {
+@media (max-width: 1400px) {
   body {
-      width: 1440px;
+      width: 1400px;
   }
 
   .main-hero{
