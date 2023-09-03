@@ -17,12 +17,20 @@ body {
   background-size: cover;
 }
 div .main-logo {
-  font-family: Peralta;
+  div .main-logo {
+    font-family: Peralta;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+  /* font-family: Peralta;
   font-size: 40px;
   font-weight: 400;
   line-height: 52px;
   letter-spacing: 0em;
-  text-align: left;
+  text-align: left; */
 }
 nav ul {
   margin: 0;
@@ -89,13 +97,13 @@ li {
   justify-content: center;
   flex-direction: column;
   margin: 52px;
-  /* background-color: #000; */
+  
   color: #fff;
-  padding: 50px;
+  padding: 116px;
   padding-left: 0%;
 }
 .content-header h3 {
-  color: #4b40c5;
+  /* color: #4b40c5;
   font-family: Poppins;
   font-size: 48px;
   font-weight: 700;
@@ -107,13 +115,24 @@ li {
   height: 89px;
   top: 387px;
   left: 42px;
-  padding-left: px;
+  padding-left: px; */
+
+  color: #4b40c5;
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 118px;
+  letter-spacing: 2px;
+  text-align: left;
+  align-items: center;
+  width: 1108px;
+  height: 89px;
 }
-.content-header {
-  align-content: center;
+/* .content-header {
+   align-content: center;
   padding-right: px;
-  margin-top: 180px;
-}
+  margin-top: 180px; 
+} */
 .btn-findoutmore {
   background: #4b40c5;
   color: #fff;
