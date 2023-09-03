@@ -91,6 +91,12 @@ li {
   color: #000;
   font-weight: 700;
   font-size: 22px;
+  text-transform: capitalize;
+
+  /* color: #000;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: capitalize; */
 }
 .content-header {
   display: flex;
@@ -581,17 +587,24 @@ button.subscribe-btn {
 }
 
 .footer {
+  /* display: flex;
+  margin-top: 15%; */
+
   display: flex;
-  margin-top: 15%;
+  padding: 30px 20px;
 }
 .footer-data {
-  display: flex;
+  /* display: flex;
   justify-content: center;
   align-items: center;
   gap: 50px;
   padding-left: 15%;
   justify-content: space-evenly;
-  margin-right: 10%;
+  margin-right: 10%; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 60px;
 }
 .footer-data .detials {
   font-family: Poppins;
