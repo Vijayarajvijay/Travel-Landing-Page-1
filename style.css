@@ -169,11 +169,11 @@ a.btn-findoutmore {
   letter-spacing: 0em;
   text-align: left;
 }
-.main-hero.content-header {
+/* .main-hero.content-header {
   display: flex;
   justify-content: start;
   align-items: center; 
- }
+ } */
 .category-section h3 {
   color: blue;
   font-family: Poppins;
