@@ -177,7 +177,7 @@ a.btn-findoutmore {
   line-height: 48px;
   letter-spacing: 0em;
   text-align: center;
-  margin-top: 100px;
+  margin-top: 75px;
 }
 
 .category-section h3 {
@@ -748,7 +748,7 @@ img.bottom-img3{
   border-bottom-right-radius: 15%;
 }
 
-@media (max-width: 576px) {
+/* @media (max-width: 576px) { 
   body {
       width: 5;
   }
@@ -775,7 +775,7 @@ img.bottom-img3{
   }
 }
 
-/* @media (max-width: 992px) {
+ @media (max-width: 992px) {
   body {
       width: 992px;
   }
