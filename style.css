@@ -88,15 +88,15 @@ li {
   list-style-type: none;
 }
 .nav-items li a {
-  color: #000;
-  font-weight: 700;
-  font-size: 22px;
-  text-transform: capitalize;
-
   /* color: #000;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 22px;
   text-transform: capitalize; */
+
+  color: #000;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: capitalize;
 }
 .content-header {
   display: flex;
