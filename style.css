@@ -129,8 +129,8 @@ li {
   line-height: 118px;
   letter-spacing: 2px;
   text-align: left;
-
-  width: 1108px;
+  width: 90%;
+  max-width: 1108px;
   height: 89px;
 }
 /* .content-header {
@@ -730,7 +730,7 @@ img.bottom-img3 {
   border-bottom-right-radius: 15%;
 }
 
-/*@media (max-width: 576px) { 
+@media (max-width: 576px) { 
   body {
       width: 576px;
   }
@@ -791,4 +791,4 @@ img.bottom-img3 {
       background-size: cover;
       height: auto;
   }
-}  */
+}  
