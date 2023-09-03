@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 body {
-
   font-family: "Poppins", sans-serif;
   overflow-x: hidden;
 }
@@ -24,7 +23,7 @@ div .main-logo {
     line-height: 35px;
     letter-spacing: 0em;
     text-align: left;
-}
+  }
   /* font-family: Peralta;
   font-size: 40px;
   font-weight: 400;
@@ -130,7 +129,7 @@ li {
   line-height: 118px;
   letter-spacing: 2px;
   text-align: left;
-  
+
   width: 1108px;
   height: 89px;
 }
@@ -224,8 +223,6 @@ a.btn-findoutmore {
   justify-content: space-around;
 }
 .category-detials {
-
-
   width: 313px;
   height: 393px;
   border-radius: 47px;
@@ -434,8 +431,8 @@ img.greece-new-img {
 .step p {
   color: #5e6282;
 }
-.section{
-  padding:50px 20px;
+.section {
+  padding: 50px 20px;
 }
 .bookig-section {
   padding: 50px 20px;
@@ -669,7 +666,6 @@ img.img-inner {
 
   background-repeat: no-repeat;
   background-position: center;
-  
 
   padding-top: 25px;
   height: 115px;
@@ -677,10 +673,9 @@ img.img-inner {
 
 .yellow1 {
   background-image: url("./images/World\ Class\ Service\ bg\ image.png");
-  
+
   background-repeat: no-repeat;
   background-position: center;
-
 
   padding-top: 25px;
   height: 130px;
@@ -690,7 +685,6 @@ img.img-inner {
 
   background-repeat: no-repeat;
   background-position: center;
-  
 
   padding-top: 25px;
   height: 115px;
@@ -722,15 +716,15 @@ div.blue-border {
   padding-bottom: 10%;
   padding-top: 19%;
 }
-img.bottom-img{
-   border-bottom-left-radius: 15%;
-   border-bottom-right-radius: 15%;
-}
-img.bottom-img2{
+img.bottom-img {
   border-bottom-left-radius: 15%;
   border-bottom-right-radius: 15%;
 }
-img.bottom-img3{
+img.bottom-img2 {
+  border-bottom-left-radius: 15%;
+  border-bottom-right-radius: 15%;
+}
+img.bottom-img3 {
   border-bottom-left-radius: 15%;
   border-bottom-right-radius: 15%;
 }
