@@ -743,8 +743,8 @@ img.bottom-img3 {
 
 
 
-}
-
+ }
+ /*
  @media (max-width: 768px) { 
   body {
       width: 768px;
@@ -779,11 +779,11 @@ img.bottom-img3 {
       background-size: cover;
       height: auto;
   }
-}
+} */
 
-@media (max-width: 1400px) {
+@media (max-width: 1440px) {
   body {
-      width: 1400px;
+      width: 1440px;
   }
 
   .main-hero{
