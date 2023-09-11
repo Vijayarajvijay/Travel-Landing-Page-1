@@ -556,13 +556,11 @@ button.subscribe-btn {
   justify-content: center;
   align-items: center;
   margin-top: 10%;
-  border-radius: -1%;
   background-color: #f3f2f5;
-  margin-bottom: x;
-  border-bottom: x;
   height: 500px;
   border-top-left-radius: 10%;
   border-top-right-radius: 10%;
+  width: 98%;
 }
 
 .social-media {
@@ -608,9 +606,10 @@ button.subscribe-btn {
 }
 
 .footer-right {
-  margin-left: 10%;
+  margin-left: 5%;
   width: 284px;
   height: 192px;
+  margin-right: 35px;
 }
 
 .footer.p-content {
@@ -625,7 +624,7 @@ p.p-content {
   padding-top: 5%;
   font-family: Poppins;
   color: #5e6282;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 22px;
   letter-spacing: 0em;
@@ -770,4 +769,7 @@ img.bottom-img3 {
       background-size: cover;
       height: auto;
   }
-}  
+} 
+.btn{
+  ju
+} 
